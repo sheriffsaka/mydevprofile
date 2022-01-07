@@ -9,7 +9,7 @@ class Contact extends Component{
             <section className="container-1">
                 <img id="contactimg" src={contact} width="180" height="180" alt="contactlogo" />
                 <h3><strong>SacTech Computers</strong></h3>
-                <h4>Email: sheriffdeenalade@gmail.com</h4>
+                <h4>Email: sheriffdeenalade@gmail.com. adetunji_alade2005@yahoo.com</h4>
                 <a id="mail"href="https://mail.google.com/mail/?view=cm&fs=1&to=sheriffdeenalade@gmail.com"><img id="mailmelogo" src={mailme} alt="mail me"/>Click Here To Send Mail</a>
                 <h4>Telephone: +2348056176735</h4>
                 <h4>Mobile Phone: +2348033618259</h4>
